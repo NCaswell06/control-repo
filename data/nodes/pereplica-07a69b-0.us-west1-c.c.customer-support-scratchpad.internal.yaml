@@ -1,0 +1,4 @@
+---
+puppet_enterprise::profile::master::java_args:
+  Xms: 1920m
+  Xmx: 1920m
